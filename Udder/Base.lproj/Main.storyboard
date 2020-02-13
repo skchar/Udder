@@ -18,7 +18,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="658bd2c0-e3da-49c3-8faf-0dc7088ac4f2" translatesAutoresizingMaskIntoConstraints="NO" id="sLY-zq-0ag">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="0d200abe-1fd5-4f6a-afec-91638d7db782" translatesAutoresizingMaskIntoConstraints="NO" id="sLY-zq-0ag">
                                 <rect key="frame" x="87" y="672" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -46,6 +46,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="658bd2c0-e3da-49c3-8faf-0dc7088ac4f2" width="1024" height="998"/>
+        <image name="0d200abe-1fd5-4f6a-afec-91638d7db782" width="768" height="1024"/>
     </resources>
 </document>
